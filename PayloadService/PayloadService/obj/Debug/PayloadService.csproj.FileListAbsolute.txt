@@ -1,0 +1,7 @@
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\bin\Debug\PayloadService.dll.config
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\bin\Debug\PayloadService.dll
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\bin\Debug\PayloadService.pdb
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\obj\Debug\PayloadService.csprojResolveAssemblyReference.cache
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\obj\Debug\PayloadService.csproj.CoreCompileInputs.cache
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\obj\Debug\PayloadService.dll
+C:\Users\Anchit Pandey\documents\visual studio 2017\Projects\PayloadService\PayloadService\obj\Debug\PayloadService.pdb

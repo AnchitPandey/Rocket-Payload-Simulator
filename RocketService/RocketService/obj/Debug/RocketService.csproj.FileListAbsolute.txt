@@ -1,0 +1,7 @@
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\bin\Debug\RocketService.dll.config
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\bin\Debug\RocketService.dll
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\bin\Debug\RocketService.pdb
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\obj\Debug\RocketService.csprojResolveAssemblyReference.cache
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\obj\Debug\RocketService.csproj.CoreCompileInputs.cache
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\obj\Debug\RocketService.dll
+c:\users\anchit pandey\documents\visual studio 2017\Projects\RocketService\RocketService\obj\Debug\RocketService.pdb
