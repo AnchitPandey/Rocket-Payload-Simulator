@@ -1,0 +1,17 @@
+﻿{
+  "rockets": [
+    {
+      "rocketId": "a123",
+      "name": "Bird-9",
+      "orbit": "600",
+      "payload": "GPM"
+    },
+    {
+      "rocketId": "b123",
+      "name": "Bird-Heavy",
+      "orbit": "36000",
+      "payload": "TDRS-11"
+    }
+  ]
+}
+

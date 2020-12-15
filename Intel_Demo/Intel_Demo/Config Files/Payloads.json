@@ -1,0 +1,12 @@
+﻿{
+  "payloads": [
+    {
+      "payloadId": "GPM",
+      "type": "spy"
+    },
+    {
+      "payloadId": "TDRS-11",
+      "type": "Communication"
+    }
+  ]
+}
