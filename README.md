@@ -1,5 +1,5 @@
 # Rocket-Payload-Simulator
-This project is a minified version of NASA's ground station rocket launching simulator. I made this app using WPF. In order to simulate data transfer from rocket to ground station, I created WCF service that send telemetry and gathered data from rocket and payload upon request. I have used multithreading and locking concepts to ensure shared config data files are safely read and written to.
+This project is a minified version of NASA's ground station rocket launching simulator. I made this app with WPF as the frond-end tool & WCF at the back. In order to simulate data transfer from rocket to ground station, the WCF service sends telemetry and gathered data from rocket and payload upon request. Also used multithreading and locking concepts to ensure shared config data files are safely read and written to.
 
 ## Features of the app
 
